@@ -1,5 +1,5 @@
 # base image
-FROM centos
+FROM centos:centos7
 
 # MAINTAINER
 MAINTAINER cyf2018@sina.com
