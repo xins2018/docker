@@ -5,7 +5,7 @@ FROM centos
 MAINTAINER cyf2018@sina.com
 
 # running required command
-CMD [ "/usr/sbin/init"]
+CMD ["/usr/sbin/init"]
 
 # java
 RUN yum install java -y
